@@ -39,7 +39,7 @@ import org.springframework.util.StringUtils;
 /**
  * A {@link Plugin} for a starter project.
  *
- * @author Andy Wilkinson
+
  */
 public class StarterPlugin implements Plugin<Project> {
 

@@ -33,8 +33,8 @@ import org.springframework.util.Assert;
  * Simple implementation of a {@link ReactiveHealthIndicator} returning status information
  * for Cassandra data stores.
  *
- * @author Alexandre Dutra
- * @author Tomasz Lelek
+
+
  * @since 2.4.0
  */
 public class CassandraDriverReactiveHealthIndicator extends AbstractReactiveHealthIndicator {

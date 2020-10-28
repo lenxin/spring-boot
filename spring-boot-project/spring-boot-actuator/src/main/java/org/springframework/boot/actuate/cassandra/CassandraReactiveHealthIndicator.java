@@ -28,7 +28,7 @@ import org.springframework.util.Assert;
 /**
  * A {@link ReactiveHealthIndicator} for Cassandra.
  *
- * @author Artsiom Yudovin
+
  * @since 2.1.0
  * @deprecated since 2.4.0 in favor of {@link CassandraDriverHealthIndicator}
  */

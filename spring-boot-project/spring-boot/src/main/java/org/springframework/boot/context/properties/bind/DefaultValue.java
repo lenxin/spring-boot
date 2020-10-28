@@ -26,7 +26,7 @@ import java.lang.annotation.Target;
  * property. This annotation can also be used with nested properties to indicate that a
  * value should always be bound (rather than binding {@code null}).
  *
- * @author Madhura Bhave
+
  * @since 2.2.0
  */
 @Retention(RetentionPolicy.RUNTIME)

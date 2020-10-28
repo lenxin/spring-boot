@@ -26,7 +26,7 @@ import org.junit.jupiter.api.extension.ExtendWith;
 /**
  * Annotation used to configure servlet container tests.
  *
- * @author Andy Wilkinson
+
  */
 @Retention(RetentionPolicy.RUNTIME)
 @Target(ElementType.TYPE)

@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration
 /**
  * Tests for {@link ConfigurationProperties @ConfigurationProperties}-annotated beans.
  *
- * @author Madhura Bhave
+
  */
 class KotlinConfigurationPropertiesTests {
 

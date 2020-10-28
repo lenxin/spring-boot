@@ -44,7 +44,7 @@ import org.springframework.util.Assert;
  * <li>{@link #drainBufferedTimeline() draining} the buffered steps.
  * </ul>
  *
- * @author Brian Clozel
+
  * @since 2.4.0
  */
 public class BufferingApplicationStartup implements ApplicationStartup {

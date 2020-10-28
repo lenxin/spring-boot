@@ -43,10 +43,10 @@ import org.springframework.security.web.server.SecurityWebFilterChain;
  * or Public Key configuration is available. Also configures a
  * {@link SecurityWebFilterChain} if a {@link ReactiveJwtDecoder} bean is found.
  *
- * @author Madhura Bhave
- * @author Artsiom Yudovin
- * @author HaiTao Zhang
- * @author Anastasiia Losieva
+
+
+
+
  */
 @Configuration(proxyBeanMethods = false)
 class ReactiveOAuth2ResourceServerJwkConfiguration {

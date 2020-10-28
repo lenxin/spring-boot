@@ -19,7 +19,7 @@ package org.springframework.boot.build.context.properties;
 /**
  * A configuration property.
  *
- * @author Andy Wilkinson
+
  */
 public class ConfigurationProperty {
 

@@ -35,7 +35,7 @@ import static org.mockito.Mockito.mock;
 /**
  * Tests for {@link CassandraReactiveHealthIndicator}.
  *
- * @author Artsiom Yudovin
+
  */
 @Deprecated
 class CassandraReactiveHealthIndicatorTests {

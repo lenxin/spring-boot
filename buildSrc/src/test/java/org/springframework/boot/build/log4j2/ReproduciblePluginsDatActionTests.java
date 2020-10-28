@@ -35,7 +35,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Tests for {@link ReproducibleLog4j2PluginsDatAction}
  *
- * @author Andy Wilkinson
+
  */
 public class ReproduciblePluginsDatActionTests {
 

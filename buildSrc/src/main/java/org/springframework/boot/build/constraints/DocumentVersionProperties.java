@@ -35,7 +35,7 @@ import org.springframework.boot.build.constraints.ExtractVersionConstraints.Vers
 /**
  * Task for documenting available version properties.
  *
- * @author Christoph Dreis
+
  */
 public class DocumentVersionProperties extends DefaultTask {
 

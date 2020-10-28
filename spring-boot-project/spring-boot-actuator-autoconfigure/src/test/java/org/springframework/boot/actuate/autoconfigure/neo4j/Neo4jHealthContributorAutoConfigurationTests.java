@@ -38,9 +38,9 @@ import static org.mockito.Mockito.mock;
 /**
  * Tests for {@link Neo4jHealthContributorAutoConfiguration}.
  *
- * @author Phillip Webb
- * @author Stephane Nicoll
- * @author Michael J. Simons
+
+
+
  */
 class Neo4jHealthContributorAutoConfigurationTests {
 

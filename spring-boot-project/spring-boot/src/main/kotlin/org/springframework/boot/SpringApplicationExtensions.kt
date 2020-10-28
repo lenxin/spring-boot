@@ -23,7 +23,7 @@ import org.springframework.context.ConfigurableApplicationContext
  * `runApplication<FooApplication>(arg1, arg2)` instead of
  * `SpringApplication.run(FooApplication::class.java, arg1, arg2)`.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 inline fun <reified T : Any> runApplication(vararg args: String): ConfigurableApplicationContext =
@@ -35,7 +35,7 @@ inline fun <reified T : Any> runApplication(vararg args: String): ConfigurableAp
  * instead of instantiating `SpringApplication` class, customize it and then invoking
  * `run(arg1, arg2)`.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 inline fun <reified T : Any> runApplication(vararg args: String, init: SpringApplication.() -> Unit): ConfigurableApplicationContext =

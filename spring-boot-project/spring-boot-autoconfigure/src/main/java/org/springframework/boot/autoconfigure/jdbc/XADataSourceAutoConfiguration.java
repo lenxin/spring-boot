@@ -50,9 +50,9 @@ import org.springframework.util.StringUtils;
 /**
  * {@link EnableAutoConfiguration Auto-configuration} for {@link DataSource} with XA.
  *
- * @author Phillip Webb
- * @author Josh Long
- * @author Madhura Bhave
+
+
+
  * @since 1.2.0
  */
 @Configuration(proxyBeanMethods = false)

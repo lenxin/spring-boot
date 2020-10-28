@@ -58,7 +58,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Tests for {@link ReactiveOAuth2ClientAutoConfiguration}.
  *
- * @author Madhura Bhave
+
  */
 class ReactiveOAuth2ClientAutoConfigurationTests {
 

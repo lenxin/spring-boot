@@ -36,7 +36,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Tests for {@link UpgradeApplicator}.
  *
- * @author Andy Wilkinson
+
  */
 class UpgradeApplicatorTests {
 

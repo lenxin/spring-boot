@@ -30,7 +30,7 @@ import java.net.URI
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -43,7 +43,7 @@ inline fun <reified T : Any> TestRestTemplate.getForObject(url: String, vararg u
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -56,7 +56,7 @@ inline fun <reified T : Any> TestRestTemplate.getForObject(url: String, uriVaria
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -69,7 +69,7 @@ inline fun <reified T : Any> TestRestTemplate.getForObject(url: URI): T? =
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -82,7 +82,7 @@ inline fun <reified T : Any> TestRestTemplate.getForEntity(url: URI): ResponseEn
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -95,7 +95,7 @@ inline fun <reified T : Any> TestRestTemplate.getForEntity(url: String, vararg u
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -108,7 +108,7 @@ inline fun <reified T : Any> TestRestTemplate.getForEntity(url: String, uriVaria
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -122,7 +122,7 @@ inline fun <reified T : Any> TestRestTemplate.patchForObject(url: String, reques
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -136,7 +136,7 @@ inline fun <reified T : Any> TestRestTemplate.patchForObject(url: String, reques
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -149,7 +149,7 @@ inline fun <reified T : Any> TestRestTemplate.patchForObject(url: URI, request: 
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -163,7 +163,7 @@ inline fun <reified T : Any> TestRestTemplate.postForObject(url: String, request
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -177,7 +177,7 @@ inline fun <reified T : Any> TestRestTemplate.postForObject(url: String, request
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -190,7 +190,7 @@ inline fun <reified T : Any> TestRestTemplate.postForObject(url: URI, request: A
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -204,7 +204,7 @@ inline fun <reified T : Any> TestRestTemplate.postForEntity(url: String, request
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -218,7 +218,7 @@ inline fun <reified T : Any> TestRestTemplate.postForEntity(url: String, request
  * extension is subject to type erasure. Use [exchange] if you need to retain actual
  * generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -230,7 +230,7 @@ inline fun <reified T : Any> TestRestTemplate.postForEntity(url: URI, request: A
  * variant leveraging Kotlin reified type parameters. This extension is not subject to
  * type erasure and retains actual generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -243,7 +243,7 @@ inline fun <reified T : Any> TestRestTemplate.exchange(url: String, method: Http
  * variant leveraging Kotlin reified type parameters. This extension is not subject to
  * type erasure and retains actual generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -256,7 +256,7 @@ inline fun <reified T : Any> TestRestTemplate.exchange(url: String, method: Http
  * variant leveraging Kotlin reified type parameters. This extension is not subject to
  * type erasure and retains actual generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)
@@ -269,7 +269,7 @@ inline fun <reified T : Any> TestRestTemplate.exchange(url: URI, method: HttpMet
  * variant leveraging Kotlin reified type parameters. This extension is not subject to
  * type erasure and retains actual generic type arguments.
  *
- * @author Sebastien Deleuze
+
  * @since 2.0.0
  */
 @Throws(RestClientException::class)

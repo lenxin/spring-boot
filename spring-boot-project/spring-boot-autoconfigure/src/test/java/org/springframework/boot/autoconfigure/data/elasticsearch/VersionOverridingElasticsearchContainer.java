@@ -21,7 +21,7 @@ import org.testcontainers.elasticsearch.ElasticsearchContainer;
 /**
  * Extension of {@link ElasticsearchContainer} to override default version.
  *
- * @author Scott Frederick
+
  */
 public class VersionOverridingElasticsearchContainer extends ElasticsearchContainer {
 

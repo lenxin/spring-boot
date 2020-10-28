@@ -42,7 +42,7 @@ import org.springframework.boot.build.context.properties.ConfigurationProperties
  * metadata is made available as an artifact in the
  * </ul>
  *
- * @author Andy Wilkinson
+
  */
 public class AutoConfigurationPlugin implements Plugin<Project> {
 

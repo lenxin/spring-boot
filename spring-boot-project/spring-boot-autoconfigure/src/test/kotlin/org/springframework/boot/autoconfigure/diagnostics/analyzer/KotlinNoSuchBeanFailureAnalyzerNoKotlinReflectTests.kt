@@ -17,7 +17,7 @@ import org.springframework.context.annotation.Configuration
  * Tests for {@link ConfigurationProperties @ConfigurationProperties}-annotated beans when kotlin-reflect is not present
  * on the classpath.
  *
- * @author Madhura Bhave
+
  */
 @ClassPathExclusions("kotlin-reflect*.jar")
 class KotlinNoSuchBeanFailureAnalyzerNoKotlinReflectTests {

@@ -34,7 +34,7 @@ import org.springframework.security.web.SecurityFilterChain;
  * available. Also configures a {@link WebSecurityConfigurerAdapter} if a
  * {@link OpaqueTokenIntrospector} bean is found.
  *
- * @author Madhura Bhave
+
  */
 @Configuration(proxyBeanMethods = false)
 class OAuth2ResourceServerOpaqueTokenConfiguration {

@@ -45,9 +45,9 @@ import org.springframework.security.web.SecurityFilterChain;
  * Key configuration is available. Also configures a {@link WebSecurityConfigurerAdapter}
  * if a {@link JwtDecoder} bean is found.
  *
- * @author Madhura Bhave
- * @author Artsiom Yudovin
- * @author HaiTao Zhang
+
+
+
  */
 @Configuration(proxyBeanMethods = false)
 class OAuth2ResourceServerJwtConfiguration {

@@ -9,7 +9,7 @@ import org.springframework.core.ResolvableType
 /**
  * Tests for `ConstructorParametersBinder`.
  *
- * @author Stephane Nicoll
+
  */
 class KotlinConstructorParametersBinderTests {
 

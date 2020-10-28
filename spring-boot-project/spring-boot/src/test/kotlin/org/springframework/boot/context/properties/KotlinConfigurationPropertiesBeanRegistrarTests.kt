@@ -10,7 +10,7 @@ import org.springframework.core.type.classreading.SimpleMetadataReaderFactory
 /**
  * Tests for `ConfigurationPropertiesBeanRegistrar`.
  *
- * @author Stephane Nicoll
+
  */
 @Suppress("unused")
 class KotlinConfigurationPropertiesBeanRegistrarTests {

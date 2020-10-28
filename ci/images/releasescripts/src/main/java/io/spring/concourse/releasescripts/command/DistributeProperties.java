@@ -24,7 +24,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * Distribution properties.
  *
- * @author Phillip Webb
+
  */
 @ConfigurationProperties(prefix = "distribute")
 public class DistributeProperties {

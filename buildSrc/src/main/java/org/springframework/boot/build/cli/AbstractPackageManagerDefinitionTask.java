@@ -37,7 +37,7 @@ import org.springframework.boot.build.artifactory.ArtifactoryRepository;
  * Base class for generating a package manager definition file such as a Scoop manifest or
  * a Homebrew formula.
  *
- * @author Andy Wilkinson
+
  */
 public abstract class AbstractPackageManagerDefinitionTask extends DefaultTask {
 

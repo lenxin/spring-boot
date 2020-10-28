@@ -40,8 +40,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Integration tests for the Maven plugin's jar support.
  *
- * @author Andy Wilkinson
- * @author Madhura Bhave
+
+
  */
 @ExtendWith(MavenBuildExtension.class)
 class JarIntegrationTests extends AbstractArchiveIntegrationTests {

@@ -27,7 +27,7 @@ import org.springframework.core.metrics.StartupStep;
  * {@link BufferingApplicationStartup}. Its processing time is recorded using
  * {@link System#nanoTime()}.
  *
- * @author Brian Clozel
+
  */
 class BufferedStartupStep implements StartupStep {
 

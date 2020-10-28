@@ -31,7 +31,7 @@ import org.springframework.security.config.annotation.web.reactive.EnableWebFlux
  * {@link EnableAutoConfiguration Auto-configuration} for Reactive OAuth2 resource server
  * support.
  *
- * @author Madhura Bhave
+
  * @since 2.1.0
  */
 @Configuration(proxyBeanMethods = false)

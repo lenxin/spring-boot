@@ -28,8 +28,8 @@ import org.springframework.util.StreamUtils;
 /**
  * OAuth 2.0 resource server properties.
  *
- * @author Madhura Bhave
- * @author Artsiom Yudovin
+
+
  * @since 2.1.0
  */
 @ConfigurationProperties(prefix = "spring.security.oauth2.resourceserver")

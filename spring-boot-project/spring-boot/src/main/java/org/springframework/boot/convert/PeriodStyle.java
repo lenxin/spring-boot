@@ -27,8 +27,8 @@ import org.springframework.util.Assert;
 /**
  * A standard set of {@link Period} units.
  *
- * @author Eddú Meléndez
- * @author Edson Chávez
+
+
  * @since 2.3.0
  * @see Period
  */

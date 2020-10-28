@@ -30,7 +30,7 @@ import org.springframework.security.oauth2.server.resource.BearerTokenAuthentica
 /**
  * {@link EnableAutoConfiguration Auto-configuration} for OAuth2 resource server support.
  *
- * @author Madhura Bhave
+
  * @since 2.1.0
  */
 @Configuration(proxyBeanMethods = false)

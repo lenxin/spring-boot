@@ -42,7 +42,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Tests for {@link CloudFoundryInfoEndpointWebExtension}.
  *
- * @author Madhura Bhave
+
  */
 class CloudFoundryInfoEndpointWebExtensionTests {
 

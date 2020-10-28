@@ -43,8 +43,8 @@ import static org.mockito.Mockito.mock;
 /**
  * Tests for {@link CassandraDriverReactiveHealthIndicator}.
  *
- * @author Alexandre Dutra
- * @author Stephane Nicoll
+
+
  */
 class CassandraDriverReactiveHealthIndicatorTests {
 

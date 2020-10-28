@@ -31,7 +31,7 @@ import static org.mockito.Mockito.mock;
  * Driver configuration mocked to avoid instantiation of a real driver with connection
  * creation.
  *
- * @author Michael J. Simons
+
  */
 @Configuration(proxyBeanMethods = false)
 class MockedDriverConfiguration {

@@ -31,7 +31,7 @@ import org.gradle.api.tasks.TaskAction;
 /**
  * {@link Task} to make Maven binaries available for integration testing.
  *
- * @author Andy Wilkinson
+
  */
 public class PrepareMavenBinaries extends DefaultTask {
 

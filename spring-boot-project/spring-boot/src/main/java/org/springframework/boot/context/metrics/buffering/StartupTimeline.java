@@ -29,7 +29,7 @@ import org.springframework.core.metrics.StartupStep;
  * {@link BufferingApplicationStartup}. Each {@link TimelineEvent} has a start and end
  * time as well as a duration measured with nanosecond precision.
  *
- * @author Brian Clozel
+
  * @since 2.4.0
  */
 public class StartupTimeline {

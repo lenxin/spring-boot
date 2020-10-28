@@ -28,7 +28,7 @@ import org.gradle.api.tasks.bundling.Jar;
 /**
  * A plugin applied to a project that should be deployed.
  *
- * @author Andy Wilkinson
+
  */
 public class DeployedPlugin implements Plugin<Project> {
 

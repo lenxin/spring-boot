@@ -37,8 +37,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Tests for {@link CodecsAutoConfiguration}.
  *
- * @author Madhura Bhave
- * @author Andy Wilkinson
+
+
  */
 class CodecsAutoConfigurationTests {
 

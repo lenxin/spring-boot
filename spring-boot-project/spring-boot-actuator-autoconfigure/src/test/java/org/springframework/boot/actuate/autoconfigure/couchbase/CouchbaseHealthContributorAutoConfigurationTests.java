@@ -30,8 +30,8 @@ import static org.mockito.Mockito.mock;
 /**
  * Tests for {@link CouchbaseHealthContributorAutoConfiguration}.
  *
- * @author Phillip Webb
- * @author Stephane Nicoll
+
+
  */
 class CouchbaseHealthContributorAutoConfigurationTests {
 

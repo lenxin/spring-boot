@@ -19,7 +19,7 @@ package io.spring.concourse.releasescripts.bintray;
 /**
  * Details for a single packaged file.
  *
- * @author Phillip Webb
+
  */
 public class PackageFile {
 

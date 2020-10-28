@@ -26,8 +26,8 @@ import org.springframework.boot.actuate.health.ReactiveHealthIndicator;
 /**
  * A {@link ReactiveHealthIndicator} for Couchbase.
  *
- * @author Mikalai Lushchytski
- * @author Stephane Nicoll
+
+
  * @since 2.1.0
  */
 public class CouchbaseReactiveHealthIndicator extends AbstractReactiveHealthIndicator {

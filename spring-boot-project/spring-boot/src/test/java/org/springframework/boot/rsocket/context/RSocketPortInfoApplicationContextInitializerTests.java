@@ -33,8 +33,8 @@ import static org.mockito.Mockito.verify;
 /**
  * Tests for {@link RSocketPortInfoApplicationContextInitializer}.
  *
- * @author Spencer Gibb
- * @author Andy Wilkinson
+
+
  */
 class RSocketPortInfoApplicationContextInitializerTests {
 

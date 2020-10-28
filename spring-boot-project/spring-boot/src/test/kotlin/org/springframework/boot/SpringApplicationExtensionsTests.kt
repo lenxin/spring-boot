@@ -30,7 +30,7 @@ import org.springframework.core.env.StandardEnvironment
 /**
  * Tests for `SpringApplicationExtensions`.
  *
- * @author Sebastien Deleuze
+
  */
 class SpringApplicationExtensionsTests {
 

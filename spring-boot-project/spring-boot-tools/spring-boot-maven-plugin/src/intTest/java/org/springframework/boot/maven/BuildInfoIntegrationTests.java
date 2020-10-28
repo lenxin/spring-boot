@@ -33,7 +33,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Integration tests for the Maven plugin's build info support.
  *
- * @author Andy Wilkinson
+
  */
 @ExtendWith(MavenBuildExtension.class)
 public class BuildInfoIntegrationTests {

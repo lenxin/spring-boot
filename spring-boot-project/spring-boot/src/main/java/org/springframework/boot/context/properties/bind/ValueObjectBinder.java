@@ -44,9 +44,9 @@ import org.springframework.util.Assert;
 /**
  * {@link DataObjectBinder} for immutable value objects.
  *
- * @author Madhura Bhave
- * @author Stephane Nicoll
- * @author Phillip Webb
+
+
+
  */
 class ValueObjectBinder implements DataObjectBinder {
 

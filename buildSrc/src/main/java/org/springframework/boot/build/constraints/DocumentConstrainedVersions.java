@@ -35,7 +35,7 @@ import org.springframework.boot.build.constraints.ExtractVersionConstraints.Cons
 /**
  * Task for documenting a platform's constrained versions.
  *
- * @author Andy Wilkinson
+
  */
 public class DocumentConstrainedVersions extends DefaultTask {
 

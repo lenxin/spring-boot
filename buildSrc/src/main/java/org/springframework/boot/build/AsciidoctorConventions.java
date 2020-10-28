@@ -66,7 +66,7 @@ import org.springframework.util.StringUtils;
  * </ul>
  * </ul>
  *
- * @author Andy Wilkinson
+
  */
 class AsciidoctorConventions {
 

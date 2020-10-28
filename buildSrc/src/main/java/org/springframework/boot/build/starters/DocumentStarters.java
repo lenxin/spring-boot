@@ -45,7 +45,7 @@ import org.springframework.util.StringUtils;
 /**
  * {@link Task} to document all starter projects.
  *
- * @author Andy Wilkinson
+
  */
 public class DocumentStarters extends DefaultTask {
 

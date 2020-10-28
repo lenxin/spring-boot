@@ -32,8 +32,8 @@ import org.springframework.context.annotation.Import;
  * {@link EnableAutoConfiguration Auto-configuration} for
  * {@link CassandraDriverReactiveHealthIndicator}.
  *
- * @author Artsiom Yudovin
- * @author Stephane Nicoll
+
+
  * @since 2.1.0
  */
 @Configuration(proxyBeanMethods = false)

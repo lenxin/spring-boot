@@ -27,7 +27,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Tests for {@link MockMvcAutoConfiguration}.
  *
- * @author Madhura Bhave
+
  */
 class MockMvcAutoConfigurationTests {
 

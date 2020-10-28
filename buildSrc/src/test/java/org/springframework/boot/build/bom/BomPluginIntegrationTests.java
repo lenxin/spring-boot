@@ -35,7 +35,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Tests for {@link BomPlugin}.
  *
- * @author Andy Wilkinson
+
  */
 public class BomPluginIntegrationTests {
 

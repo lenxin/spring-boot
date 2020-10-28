@@ -39,8 +39,8 @@ import static org.assertj.core.api.Assertions.assertThatExceptionOfType;
 /**
  * Tests for {@link ValueObjectBinder}.
  *
- * @author Madhura Bhave
- * @author Phillip Webb
+
+
  */
 class ValueObjectBinderTests {
 

@@ -29,8 +29,8 @@ import org.springframework.util.ObjectUtils;
 /**
  * {@link Converter} to convert from a {@link Period} to a {@link String}.
  *
- * @author Eddú Meléndez
- * @author Edson Chávez
+
+
  * @see PeriodFormat
  * @see PeriodUnit
  */

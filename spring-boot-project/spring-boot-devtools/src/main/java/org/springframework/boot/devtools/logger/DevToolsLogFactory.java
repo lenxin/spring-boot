@@ -28,7 +28,7 @@ import org.springframework.context.ApplicationListener;
 /**
  * Devtools deferred logging support.
  *
- * @author Phillip Webb
+
  * @since 2.1.0
  */
 public final class DevToolsLogFactory {

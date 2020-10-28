@@ -37,8 +37,8 @@ import static org.assertj.core.api.Assertions.assertThat;
 /**
  * Tests for {@link ManagementContextAutoConfiguration}.
  *
- * @author Madhura Bhave
- * @author Andy Wilkinson
+
+
  */
 @ExtendWith(OutputCaptureExtension.class)
 class ManagementContextAutoConfigurationTests {

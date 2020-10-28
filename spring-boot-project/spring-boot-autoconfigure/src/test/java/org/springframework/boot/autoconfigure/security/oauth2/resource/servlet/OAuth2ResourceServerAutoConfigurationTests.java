@@ -62,9 +62,9 @@ import static org.mockito.Mockito.mock;
 /**
  * Tests for {@link OAuth2ResourceServerAutoConfiguration}.
  *
- * @author Madhura Bhave
- * @author Artsiom Yudovin
- * @author HaiTao Zhang
+
+
+
  */
 class OAuth2ResourceServerAutoConfigurationTests {
 

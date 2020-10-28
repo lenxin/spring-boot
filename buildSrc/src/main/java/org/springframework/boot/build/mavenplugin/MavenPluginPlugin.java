@@ -65,8 +65,8 @@ import org.springframework.boot.build.test.IntegrationTestPlugin;
 /**
  * Plugin for building Spring Boot's Maven Plugin.
  *
- * @author Andy Wilkinson
- * @author Phillip Webb
+
+
  */
 public class MavenPluginPlugin implements Plugin<Project> {
 
